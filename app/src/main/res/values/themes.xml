@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.Notebook" parent="Base.Theme.Notebook" />
+    <style name="NoActionBar" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
 </resources>

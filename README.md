@@ -4,6 +4,7 @@ It is a simple note taking application that is still under construction. Some im
 - REST API
 - Hilt
 - API integration with Retrofit
+  
 **UI(User Interface):**
 - The main page of this application contains all the notes of the user
 - Each note has a title and a description 
